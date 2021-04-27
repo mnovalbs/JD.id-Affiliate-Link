@@ -1,0 +1,10 @@
+[
+  {
+    "name": "iPhone",
+    "path": "iphone.json"
+  },
+  {
+    "name": "Samsung",
+    "path": "samsung.json"
+  }
+]
